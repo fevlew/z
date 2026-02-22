@@ -19,7 +19,7 @@ IMAGE_GOLD = "gold.jpg"
 IMAGE_PROMO = "promo.jpg"
 
 # Ссылка на поддержку (ЗАМЕНИ НА СВОЮ!)
-SUPPORT_LINK = "https://t.me/lelolamaa
+SUPPORT_LINK = "https://t.me/lelolamaa"
 
 # Реквизиты для оплаты
 PAYMENT_DETAILS = (
